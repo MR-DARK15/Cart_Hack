@@ -7,4 +7,7 @@ the information and running the script, the information will be sent to your Tel
 # BOT-Telegram:
 
 Token = https://t.me/BotFather
+
+# chatid-BOT:
+
 userid = https://t.me/userinfobot
